@@ -1,0 +1,35 @@
+# Permalinks
+permalink:        pretty
+
+# Setup
+url:              http://qwtel.com
+
+# Set to '' in case of hosting on `http://<your-github-name>.github.io`
+baseurl:
+
+title:            Huy Trinh
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  Web developer
+
+# The tags listed as entries in the sidebar
+sidebar_tags:     [jekyll, hyde]
+
+# Fallback image and color if not overwritten for tag or post
+image:            https://source.unsplash.com/daily
+color:            '#A85641'
+
+author:
+  name:           'Huy Trinh'
+  twitter:        huypdtrinh
+  github:         trinhphandinhhuy
+  linkedin:       trinhphandinhhuy
+  photo:          https://scontent-arn2-1.xx.fbcdn.net/hphotos-xta1/v/t1.0-9/1914185_10201295546388479_6283399812864270986_n.jpg?oh=5b1bbde02941106313660f9541385831&oe=57BCB282
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    Hi, I'm Huy Trinh or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
+    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
+
+    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
