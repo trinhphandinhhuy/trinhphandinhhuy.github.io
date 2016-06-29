@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Huy Trinh</title>
- <link href="http://qwtel.com/atom.xml" rel="self"/>
- <link href="http://qwtel.com/"/>
- <updated>2016-05-10T14:15:20+03:00</updated>
- <id>http://qwtel.com</id>
+ <link href="http://huytr.com/atom.xml" rel="self"/>
+ <link href="http://huytr.com/"/>
+ <updated>2016-06-21T00:47:35+03:00</updated>
+ <id>http://huytr.com</id>
  <author>
    <name>Huy Trinh</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>What&#39;s Jekyll?</title>
-   <link href="http://qwtel.com/2012/02/06/whats-jekyll/"/>
+   <link href="http://huytr.com/2012/02/06/whats-jekyll/"/>
    <updated>2012-02-06T00:00:00+02:00</updated>
-   <id>http://qwtel.com/2012/02/06/whats-jekyll</id>
+   <id>http://huytr.com/2012/02/06/whats-jekyll</id>
    <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
 
 &lt;blockquote&gt;

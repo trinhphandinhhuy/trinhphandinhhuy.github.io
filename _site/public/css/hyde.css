@@ -200,6 +200,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 /* Sidebar nav */
 .sidebar-nav {
+  margin-top: 50px;
   margin-bottom: 1.25rem;
 }
 .sidebar-nav-item {
@@ -225,6 +226,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar a::after,
 .sidebar a::before {
   text-shadow: none;
+  text-decoration: none;
 }
 
 .sidebar-social {
@@ -237,6 +239,10 @@ h1, h2, h3, h4, h5, h6 {
 }
 .sidebar-social > a:last-child {
   margin-right: 0;
+}
+.sidebar-social > a:hover {
+  text-decoration: none;
+  color: #bdc3c7;
 }
 
 /* Enable z-index (derived from DOM structure) for the sidbar content. */

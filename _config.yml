@@ -2,7 +2,7 @@
 permalink:        pretty
 
 # Setup
-url:              http://qwtel.com
+url:              http://huytr.com
 
 # Set to '' in case of hosting on `http://<your-github-name>.github.io`
 baseurl:
@@ -11,7 +11,7 @@ title:            Huy Trinh
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  Web developer
+  Can I be a cool nerd?
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
@@ -29,7 +29,4 @@ author:
 
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:          |
-    Hi, I'm Huy Trinh or [`@qwtel`](https://www.twitter.com/qwtel), which isn't an acronym,
-    I just [wanted a short username](http://qwtel.com/how-to-find-a-short-username) and that one happened to be available.
-
-    Read my thoughts on [#software](http://qwtel.com/tag/software) and [#cryptoeconomics](http://qwtel.com/tag/cryptoeconomics).
+    Hi, I'm Huy Trinh, a LAMK student trying to become a back-end developer someday.

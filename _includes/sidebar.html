@@ -21,6 +21,32 @@
 <a     id="_menu" href="#_sidebar">☰</a>
 <aside id="_sidebar" class="sidebar" {% if image %}style="background-image:url('{{ image }}')"{% endif %}>
   <div class="container sidebar-sticky">
+    
+  {% if page.url == '/' %}
+    <div class="sidebar-about">
+      <h1>{{ site.title }}</h1>
+      {{ site.description | markdownify }}
+    </div>
+
+
+    <div class="sidebar-social">
+      {% if site.author.github %}
+        {% include icon-github.html username=site.author.github %}
+      {% endif %}
+
+      {% if site.author.twitter %}
+        {% include icon-twitter.html username=site.author.twitter %}
+      {% endif %}
+
+      {% if site.author.linkedin %}
+        {% include icon-linkedin.html username=site.author.linkedin %}
+      {% endif %}
+    </div>
+    
+    
+
+    {% endif %}
+    
     <nav class="sidebar-nav">
       <a href="/" class="sidebar-nav-item">Home</a>
       <!--
@@ -43,27 +69,5 @@
         {% endif %}
       {% endfor %}
     </nav>
-  {% if page.url == '/' %}
-    <div class="sidebar-about">
-      <h1>{{ site.title }}</h1>
-      {{ site.description | markdownify }}
-    </div>
-
-
-    <div class="sidebar-social">
-      {% if site.author.github %}
-        {% include icon-github.html username=site.author.github %}
-      {% endif %}
-
-      {% if site.author.twitter %}
-        {% include icon-twitter.html username=site.author.twitter %}
-      {% endif %}
-
-      {% if site.author.linkedin %}
-        {% include icon-linkedin.html username=site.author.linkedin %}
-      {% endif %}
-    </div>
-
-    {% endif %}
   </div>
 </aside>
