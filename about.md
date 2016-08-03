@@ -19,3 +19,12 @@ image: https://images.unsplash.com/photo-1458640904116-093b74971de9?crop=entropy
 
 ***
 
+## Skills
+
+{{ site.author.skill }}
+
+***
+
+## Contact
+
+{{ site.author.contact }}
