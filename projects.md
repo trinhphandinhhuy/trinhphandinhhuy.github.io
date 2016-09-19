@@ -24,7 +24,7 @@ I led developing and supported front-end team for creating a new web-based appli
 Playitaga.in is the small music tool that I created to fulfill the need of watching Youtube videos repeatedly.
 
 [Github](https://github.com/trinhphandinhhuy/playitagain)   
-[Website](http://playitaga.in/)
+[Website](http://playitagain.azurewebsites.net/)
 
 
 
@@ -42,4 +42,8 @@ TamCam is a small project that I made to save every movies that I have watched w
 [Github](https://github.com/trinhphandinhhuy/movietitletranslator)  
 [Website](http://awesometitles.xyz:3001/)
 
+### My Personal Website
 
+This is the exact same site you're currently viewing. So why is it listed anyway? For the sake of recursion, I guess!
+
+[Github](https://github.com/trinhphandinhhuy/trinhphandinhhuy.github.io)
