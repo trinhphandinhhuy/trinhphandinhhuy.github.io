@@ -4,13 +4,41 @@
  <title>Huy Trinh</title>
  <link href="http://huytr.com/atom.xml" rel="self"/>
  <link href="http://huytr.com/"/>
- <updated>2016-08-04T00:20:38+03:00</updated>
+ <updated>2016-09-19T15:00:15+03:00</updated>
  <id>http://huytr.com</id>
  <author>
    <name>Huy Trinh</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Finnish Game Jam</title>
+   <link href="http://huytr.com/2016/02/01/Finnish-Game-Jam/"/>
+   <updated>2016-02-01T00:00:00+02:00</updated>
+   <id>http://huytr.com/2016/02/01/Finnish-Game-Jam</id>
+   <content type="html">&lt;p&gt;Spending 3 days making a so-called ‘game’ with a super awesome team makes me realize that the more I know, the more stupid I’ll be.&lt;/p&gt;
+
+&lt;p&gt;Knowing that I could not do many things for the team with the lack of knowledge about game engine programming, designing or game play ideas, but the reality was worse than I expected. Yeah, it’s way worse. It seemed that I didn’t do nothing for the entire event, except some ideas about the story and gameplay, and the game picture that you can see above. Nothing else. The effect of the thing going on let me be down for a moment. Shit, am I that bad ? Hell no!&lt;/p&gt;
+
+&lt;p&gt;This event taught me a lesson that I should be focusing on several technologies that I think that will help me in my future, not trying to learn many things that I might use.&lt;/p&gt;
+
+&lt;p&gt;Then will come a day I’ll be good at making apps as they’re good at making games. Definitely.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Writing Stuff</title>
+   <link href="http://huytr.com/2016/01/15/writing-stuff/"/>
+   <updated>2016-01-15T00:00:00+02:00</updated>
+   <id>http://huytr.com/2016/01/15/writing-stuff</id>
+   <content type="html">&lt;p&gt;I’m not the one for words, definitely.&lt;/p&gt;
+
+&lt;p&gt;I’m so suck when it comes to writing an essay or even a small letter. Back in 2009, I got a &lt;a href=&quot;http://mrdeco.wordpress.com&quot; target=&quot;_blank&quot;&gt;small blog&lt;/a&gt; where I shared my thoughts about movies, travelling and music. But then I stopped, actually don’t remember the reason why. And recently when I’ve read it again, I can’t stop laughing about those articles that I’ve written. So stupid and naive. And since then, I haven’t actually written anything special, except those essays that I had to write in order to pass the IELTS exam.&lt;/p&gt;
+
+&lt;p&gt;But now I have to write again, for the purpose of writing thesis. I hope that with this new blog, I can share my thoughts about what I’m interested in, and also, what is bothering me. I hope it’ll go well.&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>What&#39;s Jekyll?</title>

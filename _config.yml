@@ -11,7 +11,7 @@ title:            Huy Trinh
 
 # Markdown enabled, however don't use more than one paragraph (enforced by `>`)
 description:      >
-  Can I be a cool nerd?
+  Can a nerd still be cool?
 
 # The tags listed as entries in the sidebar
 sidebar_tags:     [jekyll, hyde]
@@ -41,9 +41,14 @@ author:
     
   
   skill: |
-    Javascript / jQuery / Node.js / Express.js / Angularjs     
-    MySQL / MongoDB  
-    Git / Linux / AWS / Docker
+    Back-end:
+      PHP / Node.js / Python     
+      MySQL / MongoDB
+      Cloud Services: Amazon Web Services (EC2, S3), Docker
+      Git / Linux OS
+    Front-end:
+      Javascript: AngularJS, jQuery
+      
     
   contact: |
     Email: me@huytr.com / trinhphandinhhuy@gmail.com  
