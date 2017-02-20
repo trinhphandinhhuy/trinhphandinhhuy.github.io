@@ -33,7 +33,7 @@ Playitaga.in is the small music tool that I created to fulfill the need of watch
 Papersortingmood is the music web app for ESA Jakelut Sorting Paper Team, which is a collection of different genres of EDM songs that we usually listen while working.
 
 [Github](https://github.com/trinhphandinhhuy/papersortingmood)  
-[Website](http://papersortingmood.xyz/)
+[Website](http://psmood.co/)
 
 ### TamCam
 
@@ -47,3 +47,10 @@ TamCam is a small project that I made to save every movies that I have watched w
 This is the exact same site you're currently viewing. So why is it listed anyway? For the sake of recursion, I guess!
 
 [Github](https://github.com/trinhphandinhhuy/trinhphandinhhuy.github.io)
+
+### LAMKRTC
+
+The project that I and my thesis partner created while dealing with Continuous Delivery, Docker and WebRTC. It is pretty much like any other video conferencing applications that you've been using.
+
+[Github](https://github.com/trinhphandinhhuy/thesisapp)   
+[Website](https://thesisapp.ontheroof.top/)

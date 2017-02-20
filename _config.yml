@@ -41,13 +41,16 @@ author:
     
   
   skill: |
-    Back-end:
-      PHP / Node.js / Python     
+    Back-end: 
+      PHP / Node.js / Python |
       MySQL / MongoDB
-      Cloud Services: Amazon Web Services (EC2, S3), Docker
+
+    Cloud Services:
+      Amazon Web Services (EC2, S3), Docker
       Git / Linux OS
+      
     Front-end:
-      Javascript: AngularJS, jQuery
+      Javascript, AngularJS, jQuery
       
     
   contact: |
